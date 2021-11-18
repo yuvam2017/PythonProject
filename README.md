@@ -7,7 +7,7 @@
 ## Details
 Ayush Pratap Singh – CSC/20/47 <br>
 D R Yuvam – CSC/20/48 <br>
-Modules Used: <br>
+### Modules Used: <br>
  Socket- For networking. <br>
  Threading- For multi-tasking <br>
  Kivy- Kivy is a platform independent GUI framework for python. <br>
